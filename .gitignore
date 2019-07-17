@@ -1,0 +1,14 @@
+/.vim/
+/HI3516CV500_HI3516DV300/
+/Hi3516DV300双目模组开发资料201904/
+/armbian-h6/
+/imx6q/
+/imx8-mini/
+/nano-rk3288-8.1/
+/nano-rk3399-lpddr4-android8.1/
+/px30/
+/rp-imx6q/
+/test/
+
+# auto generated files
+tags*

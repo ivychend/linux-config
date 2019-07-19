@@ -15,8 +15,13 @@ cd - > /dev/null
 # alias set
 # grep --exclude-dir option, to ignore some directorys
 alias grep="grep --exclude-dir=\.git --exclude-dir=\.svn --color=auto"
+
 # git init alias, config local user to mine by default, can not take effect, so use export function instead
 # alias gi='init(){ git init;git config user.name IvyChen;git config user.email ivychend@gmail.com };init'
+# git status
+alias gst='git status'
+alias glo='git log --oneline'
+alias gdf='git diff'
 
 ###########################################################################################################
 # function export 

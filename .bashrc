@@ -49,3 +49,6 @@ function go()
     fi
 }
 export -f go
+
+bind 'set show-all-if-ambiguous on'
+bind 'TAB:menu-complete'
